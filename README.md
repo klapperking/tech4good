@@ -12,3 +12,15 @@ https://www.ruby-lang.org/en/documentation/installation/
 - run ruby backedn server with `rails s` inside tech4good directory
 
 - run angular as usual inside tech4good/frontend
+
+
+users:
+
+HectorRamirezGarcia
+Lara-brd
+Nacho1886
+neyman-e
+SahidRR
+victor9889
+zuzu9627
+klapperking
